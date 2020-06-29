@@ -1,0 +1,84 @@
+*{transition: all .1s ease-in;}
+*{box-sizing: border-box;}
+
+.main{
+    text-align: center;
+    padding-top: 150px;
+}
+header{
+    text-transform: uppercase
+}
+.wwa{
+    font-weight: bold;
+    color: #898f99;
+    font-size: 12px;
+    padding-bottom: 35px;
+    letter-spacing: 4.8px;
+    }
+h1{
+    font-size: 44px;
+    color: #0ec8cb;
+    padding-bottom: 40px;
+    letter-spacing: 4.8px;
+    font-weight: 400;
+}
+h2{
+    text-transform: uppercase
+}
+.text{
+    font-family: PT Sans;
+    font-size: 18px;
+    color: #999999;
+    line-height: 30px;
+    margin-bottom: 100px;
+}
+li{
+    display: inline-block;
+    width: 260px;
+    background-color: #f7f7f7
+}
+li:hover{
+    background-color: #0ec8cb;
+    color: #999999;
+}
+.icon1{
+    background-image: url(img/Anchor.png);
+    width: 64px;
+    height: 65px;
+    margin-left: 100px;
+    margin-top: 75px;
+    margin-bottom: 75px;
+}
+.icon2{
+    background-image: url(img/Diamond.png);
+    width: 64px;
+    height: 65px;
+    margin-left: 100px;
+    margin-top: 75px;
+    margin-bottom: 75px;
+}
+.icon3{
+    background-image: url(img/Eyeglasses.png);
+    width: 64px;
+    height: 65px;
+    margin-left: 100px;
+    margin-top: 75px;
+    margin-bottom: 75px;
+}
+.icon4{
+    background-image: url(img/Monitor.png);
+    width: 64px;
+    height: 65px;
+    margin-left: 100px;
+    margin-top: 75px;
+    margin-bottom: 75px;
+}
+.p{
+    font-family: PT Sans;
+    color: #777777;
+    line-height: 21px;
+    padding-top: 33px;
+    padding-bottom: 84px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
